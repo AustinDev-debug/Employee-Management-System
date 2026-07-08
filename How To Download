@@ -1,0 +1,61 @@
+# How to Download and Use
+
+## Requirements
+
+* Windows 10 or Windows 11
+* .NET Runtime installed (if required)
+
+## Downloading the Project
+
+1. Open the GitHub repository.
+2. Click the green **Code** button.
+3. Select **Download ZIP**.
+4. Extract the ZIP file to a location on your computer.
+
+## Running the Program
+
+### Option 1 (Recommended)
+
+If an executable (.exe) is included:
+
+1. Open the extracted folder.
+2. Double-click the executable file.
+3. The application will open in a command prompt window.
+
+### Option 2 (For Visual Studio Users)
+
+1. Open the `.sln` (solution) file.
+2. Press **F5** or click **Start** to run the application.
+
+## Using the Program
+
+When the program starts, you will see a menu with several options:
+
+1. **Add Employee** – Create a new employee record.
+2. **List Employees** – Display all employees currently stored.
+3. **Search Employee** – Search for an employee by name.
+4. **Give Raise** – Update an employee's salary.
+5. **Remove Employee** – Delete an employee from the system.
+6. **Exit** – Close the application.
+
+Simply type the number that corresponds to the option you want and press **Enter**.
+
+## Notes
+
+* Employee information is stored only while the program is running.
+* Closing the application will erase all employee data.
+* A future version may include the ability to save and load employee information automatically.
+
+## Troubleshooting
+
+**The program won't open**
+
+* Make sure the files were fully extracted from the ZIP archive.
+* If required, install the latest .NET Runtime.
+
+**I entered incorrect information**
+
+* Follow the prompts and enter the correct values when asked.
+* If invalid input is entered, the program will ask you to try again.
+
+Thank you for trying out the Employee Management System!
